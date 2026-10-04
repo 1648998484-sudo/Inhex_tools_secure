@@ -1,0 +1,5 @@
+# INHEX_tools_secure 依赖
+qrcode[pil]
+numpy<=1.26.4
+Pillow
+torch
